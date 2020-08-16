@@ -1,0 +1,29 @@
+/*
+ * Chart css File
+*/
+
+.Chart li {
+  list-style-type: none;
+}
+.Chart ul {
+  /* text-align: left; */
+  padding: 0;
+  width: 100%;
+}
+.ChartLegend {
+  height: 1em;
+  width: 1em;
+  display: inline-block;
+  margin-right: 0.5em;
+}
+@media screen and (max-width: 1200px) {
+  .Chart ul {
+    text-align: left;
+  }
+}
+@media screen and (min-width: 767px) {
+  .Chart ul {
+    display: flex;
+    justify-content: space-around;
+  }
+}

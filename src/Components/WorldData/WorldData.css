@@ -1,0 +1,16 @@
+/*
+ * WordData css File
+*/
+
+.WorldData {
+  /* propertys here */
+}
+.titleStyle {
+  text-align: left;
+  color: #717373;
+  padding-left: 5px;
+}
+
+.titleContainer {
+  box-shadow: -5px 0px #a81414;
+}

@@ -1,0 +1,24 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.ComboBoxformControl {
+  width: 20%;
+  margin-bottom: 30px !important;
+}
+
+.card {
+  background-color: rgba(102, 179, 255, 0.5) !important;
+  border-bottom: 10px solid rgba(0, 0, 255, 0.5);
+}
+
+.titleStyle {
+  text-align: left;
+  color: #717373;
+  padding-left: 5px;
+}
+
+.titleContainer {
+  box-shadow: -5px 0px #a81414;
+}

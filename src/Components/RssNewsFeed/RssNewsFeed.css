@@ -1,0 +1,22 @@
+/*
+ * RssNewsFeed css File
+*/
+
+.newsFeedContainer{
+    background: white;
+    height: 500px;
+    overflow-y: scroll;
+    scrollbar-width: none;
+}
+::-webkit-scrollbar {
+    display: none;
+}
+
+.newsFeedElement{
+    box-shadow: -5px 0px #645b5b;
+    padding: 5px;
+}
+
+.RssNewsFeed {
+    /* propertys here */
+}
